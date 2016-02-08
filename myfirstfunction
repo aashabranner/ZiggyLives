@@ -1,0 +1,6 @@
+f1=function(x,y){
+  z1=mean(women[,1])
+  z2=mean(women[,2])
+  list(z1,z2)
+}
+f1(x,y)
